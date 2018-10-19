@@ -4674,6 +4674,8 @@ html.w-mod-js *[data-ix="move-up-hero-title"] {
     padding-left: 0px;
   }
   .hero-section {
+    position: relative;
+    top: 3px;
     margin: 73px 5% 0px;
     padding-top: 0px;
   }
@@ -4697,6 +4699,7 @@ html.w-mod-js *[data-ix="move-up-hero-title"] {
     font-size: 32px;
   }
   .paragraph {
+    position: static;
     margin-top: 19px;
     padding-right: 0px;
     padding-left: 0px;
